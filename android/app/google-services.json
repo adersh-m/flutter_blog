@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "29576239020",
+    "project_id": "simple-blog-app-131bb",
+    "storage_bucket": "simple-blog-app-131bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29576239020:android:99cb80c82dd8bf07af8c09",
+        "android_client_info": {
+          "package_name": "com.flutterblog.demo.flutter_blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29576239020-knbb7a93tkjaqj69c4be5e2ns064naab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe09T8GFocagZQG0TY9LacmK0TOC0P7Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29576239020-knbb7a93tkjaqj69c4be5e2ns064naab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "29576239020-e0uh9eg2ffko1qek343g305v8vehbgb1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterblog.demo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
